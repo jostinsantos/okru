@@ -13,7 +13,7 @@
   "baseUrl": "https://ok.ru",
   "entryJs": "okru.js",
   "jsFile": "okru.js",
-  "tabs": ["home", "search", "library", "settings"],
+  "tabs": ["search", "library", "settings"],
   "capabilities": ["home", "search", "meta", "streams", "library", "settings", "news"],
   "searchImageStyle": "backdrop",
   "searchShowTitle": true,
