@@ -1,7 +1,7 @@
 {
   "id": "okru",
   "name": "OKRu",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Videos y series de ok.ru (Odnoklassniki). Home, buscar, biblioteca y ajustes. Sin descubrir.",
   "author": "ByAyzen / adaptado",
   "icon": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
