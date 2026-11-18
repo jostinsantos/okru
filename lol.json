@@ -15,7 +15,7 @@
   "jsFile": "okru.js",
   "tabs": ["home", "search", "library", "settings"],
   "capabilities": ["home", "search", "meta", "streams", "library", "settings", "news"],
-  "searchImageStyle": "poster",
+  "searchImageStyle": "backdrop",
   "searchShowTitle": true,
   "newsImageStyle": "poster",
   "config": [
